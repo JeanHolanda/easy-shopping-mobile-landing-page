@@ -1,68 +1,72 @@
 # 🛍️ Easy Shopping Via Mobile
 
-## 🇺🇸 About the project
+A modern mobile shopping landing page focused on clean design, layout structure and user experience.
 
-A responsive landing page built to practice front-end fundamentals using HTML and CSS, focusing on layout structure, positioning and visual hierarchy.
-
-The project simulates a mobile shopping experience, presenting a modern interface designed for usability and clean design.
+🔗 **Live Demo:** https://jeanholanda.github.io/easy-shopping-mobile-landing-page/
 
 ---
 
-## 🇧🇷 Sobre o projeto
+## About the project
 
-Uma landing page responsiva desenvolvida para praticar fundamentos de front-end com HTML e CSS, com foco em estrutura de layout, posicionamento e hierarquia visual.
+This project is a responsive landing page developed to practice front-end fundamentals using HTML and CSS.
 
-O projeto simula uma experiência de compras via mobile, com uma interface moderna e organizada.
+It simulates a mobile shopping experience, focusing on layout composition, positioning and visual hierarchy to create a clean and user-friendly interface.
+
+---
+
+## Sobre o projeto
+
+Este projeto é uma landing page responsiva desenvolvida para praticar fundamentos de front-end com HTML e CSS.
+
+Ele simula uma experiência de compras via mobile, com foco em composição de layout, posicionamento e hierarquia visual, criando uma interface limpa e intuitiva.
 
 ---
 
 ## 🎯 Purpose
 
-This project was created to strengthen my front-end fundamentals, especially working with layout positioning, responsiveness and UI structure.
+The main goal of this project is to improve my front-end development skills, especially:
+
+- Structuring layouts  
+- Improving positioning techniques  
+- Building responsive designs  
 
 ---
 
 ## 🚀 Technologies
 
-* HTML5
-* CSS3
+- HTML5  
+- CSS3  
 
 ---
 
-## 🎯 Features
+## ✨ Features
 
-* 🛍️ Mobile shopping themed landing page
-* 🎨 Clean and modern UI design
-* 🖱️ Interactive button with hover and active effects
-* 📱 Responsive layout for smaller screens
-* 🧩 Split layout with left and right sections
+- 🛍️ Mobile shopping themed interface  
+- 🎨 Clean and modern UI design  
+- 🖱️ Creating interactive button states (hover and active)  
+- 📱 Building responsive layout for smaller screens  
+- 🧩 Creating split screen layout structure  
 
 ---
 
 ## 💡 What I learned
 
-* How to create split screen layouts
-* How to position elements using CSS
-* How to work with typography and spacing
-* How to create responsive layouts using `@media`
-* How to structure content for better visual hierarchy
+- Creating split screen layouts  
+- Applying CSS for positioning elements  
+- Working with typography and spacing  
+- Building responsive designs using `@media`  
+- Structuring content for better visual hierarchy  
 
 ---
 
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JeanHolanda/easy-shopping-mobile-landing-page/f84452f6a2234cc99e1c425ec96e21f6ba72963f/assets/Minimalist%20Website%20Launch%20Computer%20Mockup%20Instagram%20Post%20Easy%20Shopping%20Mobile%20Landing%20Page.png" width="700">
+  <img src="https://raw.githubusercontent.com/JeanHolanda/easy-shopping-mobile-landing-page/f84452f6a2234cc99e1c425ec96e21f6ba72963f/assets/Minimalist%20Website%20Launch%20Computer%20Mockup%20Instagram%20Post%20Easy%20Shopping%20Mobile%20Landing%20Page.png" width="650">
 </p>
-
----
-
-## 🔗 Live Demo
-
-👉 https://jeanholanda.github.io/easy-shopping-mobile-landing-page/
 
 ---
 
 ## 🧑‍💻 Author
 
-Jean Holanda 🚀
+Developed by Jean Holanda 🚀
