@@ -2,7 +2,7 @@
 
 A modern mobile shopping landing page focused on clean design, layout structure and user experience.
 
-🔗 **Live Demo:** https://jeanholanda.github.io/easy-shopping-mobile-landing-page/
+🔗 **Live Demo:** [Easy Shopping Via Mobile](https://jeanholanda.github.io/easy-shopping-mobile-landing-page/)
 
 ---
 
